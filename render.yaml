@@ -1,0 +1,9 @@
+services:
+  - type: worker
+    name: 블리봇
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: DISCORD_TOKEN
+        sync: false
