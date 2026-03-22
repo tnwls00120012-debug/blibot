@@ -1,0 +1,43 @@
+# ────────────────────────────────────────────
+#  블리 ♡ 설정 파일
+# ────────────────────────────────────────────
+
+# 채널 설정
+DJ_USER_ID =
+DJ_NICK =
+CHANNEL_ID =
+
+# 도네이션 기준 스푼 수
+DONATION_MIN = 100
+
+# 입장 환영 메시지
+WELCOME_MSG = 어서오세요! 💕 {nickname}님 정블리 방송에 오신 걸 환영해요~
+
+# 스푼 반응 메시지
+SPOON_REACTIONS = 💕 감사해요~~ 블리마음 심쿵해!, 🎉 와앙!! 스푼 감사합니당!!, 🥹 너무 고마워요!! 사랑해요 💗, ✨ 스푼 받으니까 너무 기분 좋아요!, 💖 블리가 행복해졌어요~!
+
+# 룰렛 스푼 설정
+ROULETTE_SPOON = 30
+ROULETTE_SPOON_TYPE = 비행기
+
+# 복권 당첨 포인트 설정
+LOTTERY_EXP_3 = 5000
+LOTTERY_EXP_2 = 1000
+LOTTERY_EXP_1 = 100
+LOTTERY_EXP_0 = 1
+
+# 포인트 획득 설정
+ATTENDANCE_POINT = 30
+
+# EXP 획득 설정
+CHAT_EXP = 10
+LIKE_EXP = 5
+
+# 레벨업 포인트 기준 (레벨 x 설정값)
+LEVEL_POINT = 100
+
+# 타이머 멘트 간격 (분)
+TIMER_INTERVAL = 10
+
+# 타이머 멘트 (쉼표로 구분)
+TIMER_MESSAGES = 💕 블리 생일은 OO월 OO일이에요!, 🎉 지금 방송 중이에요~ 놀러오세요!
